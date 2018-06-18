@@ -1,8 +1,8 @@
 # flutter_app
 
-A new Flutter application.
+This is a tutorial Flutter application.
 
-## Getting Started
+## Questions?
 
-For help getting started with Flutter, view our online
+For help getting started with Flutter, you can also look at official
 [documentation](https://flutter.io/).
